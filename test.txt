@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 9A97-16A8
+
+ Directory of D:\Softwares\GitProject
+
+04/17/2017  07:18 AM    <DIR>          .
+04/17/2017  07:18 AM    <DIR>          ..
+04/17/2017  07:18 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   5,005,340,672 bytes free
